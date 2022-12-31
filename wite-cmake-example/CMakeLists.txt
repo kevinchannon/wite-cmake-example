@@ -7,7 +7,7 @@ include(FetchContent) # once in the project to include the module
 
 FetchContent_Declare(wite
 	URL https://github.com/kevinchannon/wite.git
-	GIT_TAG v0.12.0
+	GIT_TAG v0.13.0
 )
 
 FetchContent_MakeAvailable(wite)
