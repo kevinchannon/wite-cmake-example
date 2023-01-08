@@ -6,8 +6,7 @@ cmake_minimum_required (VERSION 3.8)
 include(FetchContent) # once in the project to include the module
 
 FetchContent_Declare(wite
-	URL https://github.com/kevinchannon/wite.git
-	GIT_TAG v0.13.0
+	URL https://github.com/kevinchannon/wite/releases/download/v0.14.0/wite-src.zip
 )
 
 FetchContent_MakeAvailable(wite)
