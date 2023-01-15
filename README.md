@@ -5,9 +5,9 @@
 
 # wite-cmake-example
 
-This is a really small project that demonstrates how to include [Wite](https://github.com/kevinchannon/wite) in your CMake project. The action is all in [wite-cmake-example/CMakeLists.txt](https://github.com/kevinchannon/wite-cmake-example/blob/master/wite-cmake-example/CMakeLists.txt).
+This is a very small project that demonstrates how to include [Wite](https://github.com/kevinchannon/wite) in your CMake project.
 
-The work is all done in `$/wite-cmake-example/CMakeLists.txt`, this has some lines like this in it
+The work is all done in [wite-cmake-example/CMakeLists.txt](https://github.com/kevinchannon/wite-cmake-example/blob/master/wite-cmake-example/CMakeLists.txt), this has some lines like this in it
 ```cmake
 include(FetchContent)
 
